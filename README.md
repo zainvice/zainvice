@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zainvice
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning c++
+- 🌱 I’m experienced in C++, Java and Python.
 - 💞️ I’m looking to collaborate on kali 
 - 📫 How to reach me amazwings@gmail.com
 
