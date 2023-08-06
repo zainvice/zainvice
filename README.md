@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Zane, a Full Stack Designer! 
 - 👀 I'm passionate about AI and Security. 
-- 🌱 I have experience in C++, Java, and Python. 
+- 🌱 I speak NodeJS, C++, JavaScript, Java, Django and Python. 
 - 💞️ I'm actively looking to collaborate on Kali projects. 
 - 📫 You can reach me at zainvice@pm.me. 
 - Let's connect and create something amazing together!
