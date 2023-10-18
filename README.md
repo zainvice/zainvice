@@ -1,4 +1,4 @@
-![sign](https://media.giphy.com/media/3o72FaZgzzFmqoNfBm/giphy.gif)
+![sign](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 - 👋 Hi, I'm Zane, a Full Stack Designer! 
 - 👀 I'm passionate about AI and Security. 
 - 🌱 I speak NodeJS, C++, JavaScript, Java, Django and Python. 
