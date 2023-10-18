@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="1000">
+<img src="[https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif](https://th.bing.com/th/id/R.36e4d0b856694fc471344b644a1dd6e4?rik=o4cegZKN7oRNGA&pid=ImgRaw&r=0)" width="1000">
 <h1 align="center">Hi 👋, I'm Zane</h1>
 <h3 align="center">Co-Founder at TechEdge || FULL STACK DESIGNER</h3>
 
