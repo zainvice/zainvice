@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/R.028eb2fe1bf1fcf4d40ab967a9b1b220?rik=Cn7DUrQrLBJmRw&pid=ImgRaw&r=0" width="1000">
+<img src="https://th.bing.com/th/id/R.219ae70c5ddcb7003c023ce1b4eaa10b?rik=ydLA9%2bHFrT1%2bTw&pid=ImgRaw&r=0" width="1000">
 <h1 align="center">Hi 👋, I'm Zane</h1>
 <h3 align="center">Co-Founder at TechEdge || FULL STACK DESIGNER</h3>
 
