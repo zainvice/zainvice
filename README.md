@@ -4,7 +4,7 @@
 - 🌱 I speak NodeJS, C++, JavaScript, Java, Django and Python. 
 - 💞️ I'm actively looking to collaborate on Kali projects. 
 -  You can reach me at zainvice@pm.me.
--  ![sign](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif)
+![sign](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif)
 - Let's connect and create something amazing together!
 <!---
 zainvice/zainvice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
