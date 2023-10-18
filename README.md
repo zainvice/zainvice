@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zane</h1>
-<h3 align="center">a Full Stack Designer!</h3>
+<h3 align="center">Co-Founder at TechEdge || FULL STACK DESIGNER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainvice&label=Profile%20views&color=0e75b6&style=flat" alt="zainvice" /> </p>
 
