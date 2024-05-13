@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainvice&label=Profile%20views&color=0e75b6&style=flat" alt="zainvice" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainvice" alt="zainvice" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/theprocodingguy" target="blank"><img src="https://img.shields.io/twitter/follow/theprocodingguy?logo=twitter&style=for-the-badge" alt="theprocodingguy" /></a> </p>
 
